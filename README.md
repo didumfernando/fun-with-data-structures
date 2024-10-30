@@ -1,6 +1,7 @@
 # Let's have fun with data structures
 
 [A-Level Questions](a-level-questions.md)
+[Student-Initiated Data Structure Website](https://structurestackapp.netlify.app/)
 
 ## Arrays
 - An array is a data structure that stores a collection of elements of the **same data type** in a **contiguous block of memory**.
